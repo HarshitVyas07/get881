@@ -8,11 +8,4 @@ public class Calc {
 		System.out.println("Sum = " + (num1 + num2));
 	}
 
-	public void subs(int num1, int num2) {
-		System.out.println("Difference  of numbers = " + (num1 - num2));
-	}
-	
-	public void prod(int num1, int num2) {
-		System.out.println("Product = " + (num1 * num2));
-	}
 }
